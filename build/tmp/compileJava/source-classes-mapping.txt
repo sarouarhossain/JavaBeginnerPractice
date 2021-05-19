@@ -1,6 +1,38 @@
 test/TestOne.java
  test.TestOne
-test/TestTwo.java
- test.TestTwo
 test/TestThree.java
  test.TestThree
+test/TestTwo.java
+ test.TestTwo
+lightoj/L395/L395.java
+ lightoj.L395.L395
+test/Prime.java
+ test.Prime
+test/Special.java
+ test.Special
+test/NumArray.java
+ test.NumArray
+test/BasicCalculator.java
+ test.BasicCalculator
+test/MaxProductSubarray.java
+ test.MaxProductSubarray
+test/Test.java
+ test.Test
+shiken/Solution.java
+ shiken.Solution
+test/TestArray.java
+ test.TestArray
+test/Test3.java
+ test.Test3
+lightoj/L395/NumArray.java
+ lightoj.L395.NumArray
+test/ABCD.java
+ test.ABCD
+test/L628.java
+ test.L628
+test/TestFour.java
+ test.TestFour
+array/ArrayTest.java
+ array.ArrayTest
+array/LogicalOp.java
+ array.LogicalOp

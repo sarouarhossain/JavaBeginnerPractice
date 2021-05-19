@@ -1,6 +1,8 @@
 package test;
 
 import java.util.Scanner;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 public class TestTwo {
   public static void main(String[] args) {
@@ -14,11 +16,13 @@ public class TestTwo {
     int x;
 
     // create object of scanner
-    Scanner sc = new Scanner(System.in);
+    //    Scanner sc = new Scanner(System.in);
+    //
+    //    System.out.println("Enter the value of x: ");
+    //    x = sc.nextInt();
 
-    System.out.println("Enter the value of x: ");
-    x = sc.nextInt();
+    // System.out.println(x);
 
-    System.out.println(x);
+    IntStream.range(1, 10).forEach(System.out::println);
   }
 }
